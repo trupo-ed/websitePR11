@@ -34,9 +34,8 @@ header{
 
 .nav-top {
     overflow: hidden;
-    background-color: rgb(146, 35, 35);
+    background-color: rgb(136, 35, 35);
 }
-
 .nav-top a{
     float: left;
     color: white;
